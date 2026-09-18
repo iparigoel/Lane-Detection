@@ -51,6 +51,7 @@ Python 3.9 or higher is recommended.
 
 ## Project Structure
 
+```text
 Lane-Detection/
 
 ├── input/
@@ -72,6 +73,7 @@ Lane-Detection/
 ├── requirements.txt
 ├── README.md
 └── statement.md
+```
 
 ## Installation
 
